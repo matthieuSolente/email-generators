@@ -2,38 +2,11 @@
 
 A list of generators dedicated to email coding 
 
-## Free email Builder
+## Background image
 
-[HTML E-mail Builder](https://codepen.io/emmanuelulloa/pen/aJBJQd)
+[mso Faux Absolute generator ](https://matthieusolente.github.io/mso-faux-absolute-generator/)
 
-[Vercel.app Email Template Builder](https://email-editor-demo-blue.vercel.app/)
-
-[GoSquared frr email editor](https://www.gosquared.com/free-email-builder/)
-
-[Grape js](https://grapesjs.com/demo-newsletter-editor.html)
-
-[Mjml Editor](https://mjml.io/try-it-live)
-
-[Cold email Generator](https://www.close.com/tools/cold-email-generator)
-
-[SA Email builder](https://emailbuilder.top/)
-
-[email.maocanhua.cn email builder](https://email.maocanhua.cn/editor?id=802&userId=107)
-
-
-## Template
-
-[Flybird](https://ryanfield.ca/fly-brid/)
-
-[Email Skeleton Generator](https://matthieusolente.github.io/email-skeleton-generator/)
-
-## Charts Generator
-
-[The Simple Postmaster Charts generator](https://thesimplepostmaster.com/tools/charts.html)
-
-## table generator
-
-[The Simple Postmaster data table generator](https://thesimplepostmaster.com/tools/tables.html)
+[background.cm](https://backgrounds.cm/)
 
 
 ## Buttons
@@ -58,23 +31,30 @@ A list of generators dedicated to email coding
 
 [Bullet proof Pardot Email Button Generator](https://thespotforpardot.com/bulletproof-pardot-email-button-generator/)
 
-## Triangle
 
-[VML-triangle Gnerator](https://codepen.io/matthieuSolente/pen/poxEOXo)
+## Charts Generator
 
-## List
+[The Simple Postmaster Charts generator](https://thesimplepostmaster.com/tools/charts.html)
 
-[Bulletproof Email Lists](https://lists.cm/)
 
-## Background image
+## Free email Builder
 
-[mso Faux Absolute generator ](https://matthieusolente.github.io/mso-faux-absolute-generator/)
+[HTML E-mail Builder](https://codepen.io/emmanuelulloa/pen/aJBJQd)
 
-[background.cm](https://backgrounds.cm/)
+[Vercel.app Email Template Builder](https://email-editor-demo-blue.vercel.app/)
 
-## Vml Shape 
+[GoSquared frr email editor](https://www.gosquared.com/free-email-builder/)
 
-[VML Pather](https://vml-pather.glitch.me/#)
+[Grape js](https://grapesjs.com/demo-newsletter-editor.html)
+
+[Mjml Editor](https://mjml.io/try-it-live)
+
+[Cold email Generator](https://www.close.com/tools/cold-email-generator)
+
+[SA Email builder](https://emailbuilder.top/)
+
+[email.maocanhua.cn email builder](https://email.maocanhua.cn/editor?id=802&userId=107)
+
 
 ## Interactive
 
@@ -82,9 +62,38 @@ A list of generators dedicated to email coding
 
 [Rollover Image for Email](http://freshinbox.com/tools/rollover/)
 
+
+## List
+
+[Bulletproof Email Lists](https://lists.cm/)
+
+
 ## SVG to VML
 
 [Stylecampaign converter](https://www.stylecampaign.com/vml/)
+
+
+## Table generator
+
+[The Simple Postmaster data table generator](https://thesimplepostmaster.com/tools/tables.html)
+
+
+## Template
+
+[Flybird](https://ryanfield.ca/fly-brid/)
+
+[Email Skeleton Generator](https://matthieusolente.github.io/email-skeleton-generator/)
+
+
+## Triangle
+
+[VML-triangle Gnerator](https://codepen.io/matthieuSolente/pen/poxEOXo)
+
+
+## Vml Shape 
+
+[VML Pather](https://vml-pather.glitch.me/#)
+
 
 ## Uncategorized
 
