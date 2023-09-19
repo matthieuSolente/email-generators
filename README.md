@@ -36,6 +36,8 @@ A list of generators dedicated to email coding
 
 [The Simple Postmaster Charts generator](https://thesimplepostmaster.com/tools/charts.html)
 
+##Copy
+[emaildojo AI Content Generator](https://emaildojo.io/ai-content-generator)
 
 ## Free email Builder
 
@@ -54,6 +56,15 @@ A list of generators dedicated to email coding
 [SA Email builder](https://emailbuilder.top/)
 
 [email.maocanhua.cn email builder](https://email.maocanhua.cn/editor?id=802&userId=107)
+
+[emaildojo FREE Email Template Builder - AMP & HTML](https://emaildojo.io/amp-email-editor)
+
+
+##Gmail Annotation
+
+[Gmail Promo Annotation Builder](https://emaildojo.io/gmail-promo-annotation-builder)
+
+[Gmail Promotion Tab Markup Tool](http://freshinbox.com/tools/gmailpromotab/)
 
 
 ## Interactive
@@ -99,4 +110,3 @@ A list of generators dedicated to email coding
 
 [Vevva token Generator](https://matthieusolente.github.io/veeva-token-generator/)
 
-[Gmail Promotion Tab Markup Tool](http://freshinbox.com/tools/gmailpromotab/)
