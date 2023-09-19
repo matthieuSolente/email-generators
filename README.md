@@ -36,7 +36,8 @@ A list of generators dedicated to email coding
 
 [The Simple Postmaster Charts generator](https://thesimplepostmaster.com/tools/charts.html)
 
-##Copy
+## Copy
+
 [emaildojo AI Content Generator](https://emaildojo.io/ai-content-generator)
 
 ## Free email Builder
