@@ -87,7 +87,8 @@ A list of generators dedicated to email coding
 
 
 ## Mailto link Generator
-[Parcel MailtoLink Generator](https://parcel.io/tools/mailto)
+
+[Parcel Mailto Link Generator](https://parcel.io/tools/mailto)
 
 
 ## List
