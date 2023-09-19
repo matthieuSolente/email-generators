@@ -38,7 +38,7 @@ A list of generators dedicated to email coding
 
 [VML Padding  based VML Button  Generator](https://codepen.io/matthieuSolente/pen/ExdgdJL)
 
-[VML Padding  based Dynamic width VML Button  Generator !] (https://codepen.io/matthieuSolente/pen/BaqpxLR)
+[VML Padding  based Dynamic width VML Button  Generator](https://codepen.io/matthieuSolente/pen/BaqpxLR)
 
 [Pedantic Semantics CTA link ! ](https://codepen.io/matthieuSolente/pen/abRpPOX )
 
