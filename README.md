@@ -6,7 +6,7 @@ A list of generators dedicated to email coding
 
 [mso Faux Absolute generator ](https://matthieusolente.github.io/mso-faux-absolute-generator/)
 
-[background.cm](https://backgrounds.cm/)
+[backgrounds.cm](https://backgrounds.cm/)
 
 
 ## Buttons
