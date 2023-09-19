@@ -32,13 +32,22 @@ A list of generators dedicated to email coding
 [Bullet proof Pardot Email Button Generator](https://thespotforpardot.com/bulletproof-pardot-email-button-generator/)
 
 
+## Calendar link Generator
+
+[Parcel Calendar Link Generator](https://parcel.io/tools/calendar)
+
+
 ## Charts Generator
 
 [The Simple Postmaster Charts generator](https://thesimplepostmaster.com/tools/charts.html)
 
+
 ## Copy
 
 [emaildojo AI Content Generator](https://emaildojo.io/ai-content-generator)
+
+[Email Ipsum Generator](https://parcel.io/tools/email-ipsum)
+
 
 ## Free email Builder
 
@@ -77,6 +86,10 @@ A list of generators dedicated to email coding
 [Rollover Image for Email](http://freshinbox.com/tools/rollover/)
 
 
+## Mailto link Generator
+[Parcel MailtoLink Generator](https://parcel.io/tools/mailto)
+
+
 ## List
 
 [Bulletproof Email Lists](https://lists.cm/)
@@ -102,6 +115,11 @@ A list of generators dedicated to email coding
 ## Triangle
 
 [VML-triangle Gnerator](https://codepen.io/matthieuSolente/pen/poxEOXo)
+
+
+## Video Thumbnail Generator
+
+[Email-ready Video Thumbnail Generator](https://parcel.io/tools/video-thumbnail)
 
 
 ## Vml Shape 
