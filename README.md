@@ -6,7 +6,7 @@ A list of generators dedicated to email coding
 
 [HTML E-mail Builder](https://codepen.io/emmanuelulloa/pen/aJBJQd)
 
-[Vercel.aoo Email Template Builder](https://email-editor-demo-blue.vercel.app/)
+[Vercel.app Email Template Builder](https://email-editor-demo-blue.vercel.app/)
 
 [GoSquared frr email editor](https://www.gosquared.com/free-email-builder/)
 
