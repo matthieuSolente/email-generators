@@ -22,6 +22,7 @@ A list of generators dedicated to email coding
 ## Template
 
 [Flybird](https://ryanfield.ca/fly-brid/)
+
 [Email Skeleton Generator](https://matthieusolente.github.io/email-skeleton-generator/)
 
 ## Charts Generator
