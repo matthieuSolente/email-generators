@@ -61,7 +61,7 @@ A list of generators dedicated to email coding
 [emaildojo FREE Email Template Builder - AMP & HTML](https://emaildojo.io/amp-email-editor)
 
 
-##Gmail Annotation
+## Gmail Annotation
 
 [Gmail Promo Annotation Builder](https://emaildojo.io/gmail-promo-annotation-builder)
 
