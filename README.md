@@ -6,6 +6,8 @@ A list of generators dedicated to email coding
 
 [mso Faux Absolute generator ](https://matthieusolente.github.io/mso-faux-absolute-generator/)
 
+[Faux absolute & background image generator](https://matthieusolente.github.io/email-faux-absolute-background-image-generator/)
+
 [backgrounds.cm](https://backgrounds.cm/)
 
 
