@@ -33,7 +33,7 @@ A list of generators dedicated to email coding
 
 [Bullet proof Pardot Email Button Generator](https://thespotforpardot.com/bulletproof-pardot-email-button-generator/)
 
-[bullet proof CTA button](https://codepen.io/emmanuelulloa/pen/JjwrzZq)
+[bullet proof CTA button](https://codepen.io/emmanuelulloa/pen/zYypmXN)
 
 
 ## Calendar link Generator
