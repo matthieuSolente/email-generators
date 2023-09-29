@@ -52,9 +52,12 @@ A list of generators dedicated to email coding
 
 [Email Ipsum Generator](https://parcel.io/tools/email-ipsum)
 
-## Doit yourself Generator
+
+## Code Generator
 
 [DIY Code Generator](https://codepen.io/emmanuelulloa/pen/ZEVJYab)
+[MJML Snippets](https://codepen.io/emmanuelulloa/pen/xxmPzxE)
+
 
 ## Free email Builder
 
