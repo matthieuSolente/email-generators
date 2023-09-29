@@ -52,6 +52,9 @@ A list of generators dedicated to email coding
 
 [Email Ipsum Generator](https://parcel.io/tools/email-ipsum)
 
+## Doit yourself Generator
+
+[DIY Code Generator](https://codepen.io/emmanuelulloa/pen/ZEVJYab)
 
 ## Free email Builder
 
@@ -135,4 +138,8 @@ A list of generators dedicated to email coding
 ## Uncategorized
 
 [Vevva token Generator](https://matthieusolente.github.io/veeva-token-generator/)
+
+[Maven-Veeva tokens generator](https://codepen.io/emmanuelulloa/pen/eYbKBPb)
+
+[Vevva subject line calculator](https://veeva-subject-lines.tomasino.org/)
 
