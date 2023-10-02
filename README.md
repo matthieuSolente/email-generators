@@ -56,6 +56,7 @@ A list of generators dedicated to email coding
 ## Code Generator
 
 [DIY Code Generator](https://codepen.io/emmanuelulloa/pen/ZEVJYab)
+
 [MJML Snippets](https://codepen.io/emmanuelulloa/pen/xxmPzxE)
 
 
