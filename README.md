@@ -57,8 +57,6 @@ A list of generators dedicated to email coding
 
 [DIY Code Generator](https://codepen.io/emmanuelulloa/pen/ZEVJYab)
 
-[MJML Snippets](https://codepen.io/emmanuelulloa/pen/xxmPzxE)
-
 
 ## Free email Builder
 
@@ -97,14 +95,19 @@ A list of generators dedicated to email coding
 [Rollover Image for Email](http://freshinbox.com/tools/rollover/)
 
 
+## List
+
+[Bulletproof Email Lists](https://lists.cm/)
+
+
 ## Mailto link Generator
 
 [Parcel Mailto Link Generator](https://parcel.io/tools/mailto)
 
 
-## List
+## MJML 
 
-[Bulletproof Email Lists](https://lists.cm/)
+[MJML Snippets](https://codepen.io/emmanuelulloa/pen/xxmPzxE)
 
 
 ## SVG to VML
