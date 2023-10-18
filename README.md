@@ -2,6 +2,14 @@
 
 A list of generators dedicated to email coding 
 
+
+## Alt 
+
+[Styled Alt Text Builder](https://styled-alt-builder.glitch.me/)
+
+[An alt Decision Tree](https://codepen.io/aardrian/pen/KKrjEEX)
+
+
 ## Background image
 
 [mso Faux Absolute generator ](https://matthieusolente.github.io/mso-faux-absolute-generator/)
@@ -58,6 +66,13 @@ A list of generators dedicated to email coding
 [DIY Code Generator](https://codepen.io/emmanuelulloa/pen/ZEVJYab)
 
 
+## Darkmode
+
+[Darkmode Generator](https://autodark.glitch.me/)
+
+[Dark Mode for Email Simulator](https://proofjump.com/dark-mode-simulator/)
+
+
 ## Free email Builder
 
 [HTML E-mail Builder](https://codepen.io/emmanuelulloa/pen/aJBJQd)
@@ -81,6 +96,8 @@ A list of generators dedicated to email coding
 [Engine Mailer Drag and Drop Email Builder](https://www.enginemailer.com/html-email-builder)
 
 [Blovk Edit email builder](https://blocksedit.com/pricing/)
+
+[Starter email components](https://blocksedit.com/starter-email-components/)
 
 
 ## Gmail Annotation
@@ -139,11 +156,6 @@ A list of generators dedicated to email coding
 [Email-ready Video Thumbnail Generator](https://parcel.io/tools/video-thumbnail)
 
 
-## Vml Shape 
-
-[VML Pather](https://vml-pather.glitch.me/#)
-
-
 ## Uncategorized
 
 [Vevva token Generator](https://matthieusolente.github.io/veeva-token-generator/)
@@ -152,3 +164,11 @@ A list of generators dedicated to email coding
 
 [Vevva subject line calculator](https://veeva-subject-lines.tomasino.org/)
 
+
+## Vml Shape 
+
+[VML Pather](https://vml-pather.glitch.me/#)
+
+## WCAG 
+
+[WCAG 2.5.8 Target size](https://codepen.io/aardrian/pen/OJBZyjL)
