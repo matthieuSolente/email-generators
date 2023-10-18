@@ -80,6 +80,8 @@ A list of generators dedicated to email coding
 
 [Engine Mailer Drag and Drop Email Builder](https://www.enginemailer.com/html-email-builder)
 
+[Blovk Edit email builder](https://blocksedit.com/pricing/)
+
 
 ## Gmail Annotation
 
