@@ -145,6 +145,8 @@ A list of generators dedicated to email coding
 
 [Email Skeleton Generator](https://matthieusolente.github.io/email-skeleton-generator/)
 
+[Email Layout Generator](https://julie.io/email-layout-calculator/)
+
 
 ## Triangle
 
