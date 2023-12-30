@@ -99,6 +99,10 @@ A list of generators dedicated to email coding
 
 [Starter email components](https://blocksedit.com/starter-email-components/)
 
+[Open-source editor for crafting emails](https://maily.to/)
+
+[Create responsive email designs in seconds.](https://mailo.app/)
+
 
 ## Gmail Annotation
 
