@@ -53,6 +53,8 @@ A list of generators dedicated to email coding
 
 [The Simple Postmaster Charts generator](https://thesimplepostmaster.com/tools/charts.html)
 
+[Email Chart Builder](https://charts.email/)
+
 
 ## Copy
 
