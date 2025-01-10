@@ -2,6 +2,16 @@
 
 A list of generators dedicated to email coding 
 
+## AI 
+
+[Effortless HTML Emails](https://www.sendwisely.com/)
+
+[An AI email template builder](https://makeemail.app/)
+
+[EmailCanvasAi](https://www.emailcanvasai.com/)
+
+[HTMaiL](https://www.htmail.app/)
+
 
 ## Alt 
 
