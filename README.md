@@ -12,6 +12,8 @@ A list of generators dedicated to email coding
 
 [HTMaiL](https://www.htmail.app/)
 
+[An Email HTML Generator with AI](https://www.emailcraftai.com/)
+
 
 ## Alt 
 
