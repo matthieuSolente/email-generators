@@ -14,6 +14,8 @@ A list of generators dedicated to email coding
 
 [An Email HTML Generator with AI](https://www.emailcraftai.com/)
 
+[Create Email templates that convert customers](https://html-email.com/)
+
 
 ## Alt 
 
