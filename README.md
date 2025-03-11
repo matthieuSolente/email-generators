@@ -37,11 +37,13 @@ A list of generators dedicated to email coding
 
 [Accessible VML rounded Button for Outlook  Generator](https://matthieusolente.github.io/accessible-vml-button-generator/)
 
-[VML Padding based VML Button  Generator](https://codepen.io/matthieuSolente/pen/ExdgdJL)
+[VML Padding based VML Button  Generator](https://matthieusolente.github.io/vml-padding-based-cta-link-generator/)
 
-[VML auto width VML Button Generator](https://codepen.io/matthieuSolente/pen/BaqpxLR)
+[VML auto width VML Button Generator](https://matthieusolente.github.io/vml-padding-based-dynamic-width-cta-link-generator/)
 
-[Pedantic Semantics CTA link generator ! ](https://codepen.io/matthieuSolente/pen/abRpPOX )
+[Pedantic Semantics CTA link generator ! ](https://matthieusolente.github.io/pedantic-semantic-cta-link-generator/)
+
+[Pedantic Semantics CTA link generator (with VML ! ) ! ](https://matthieusolente.github.io/pedantic-semantic-cta-link-generator-with-vml/)
 
 [buttons.cm](https://buttons.cm/)
 
@@ -128,6 +130,10 @@ A list of generators dedicated to email coding
 
 [Gmail Promotion Tab Markup Tool](http://freshinbox.com/tools/gmailpromotab/)
 
+## Gradient
+
+[Email Gradient Generator](https://matthieusolente.github.io/email-gradient-generator/)
+
 
 ## Interactive
 
@@ -172,7 +178,7 @@ A list of generators dedicated to email coding
 
 ## Triangle
 
-[VML-triangle Gnerator](https://codepen.io/matthieuSolente/pen/poxEOXo)
+[VML-triangle Gnerator](https://matthieusolente.github.io/vml-triangle-generator/)
 
 
 ## Video Thumbnail Generator
