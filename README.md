@@ -1,6 +1,6 @@
 # Email dedicated generators
 
-A list of generators dedicated to email coding 
+A list of free generators dedicated to email coding 
 
 ## AI 
 
@@ -159,7 +159,9 @@ A list of generators dedicated to email coding
 
 ## SVG to VML
 
-[Stylecampaign converter](https://www.stylecampaign.com/vml/)
+[Stylecampaign converter SVG to html](https://www.stylecampaign.com/vml/)
+[SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
+[SVG to Png}(https://www.svgviewer.dev/svg-to-png)
 
 
 ## Table generator
