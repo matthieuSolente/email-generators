@@ -16,6 +16,12 @@ A list of free generators dedicated to email coding
 
 [Create Email templates that convert customers](https://html-email.com/)
 
+[Mjml Email Creator](https://crafting.email/ai-mjml-email-creator/)
+
+[Migma.ai](https://migma.ai/)
+
+[The AI Email Designer](https://emily.email/)
+
 
 ## Alt 
 
