@@ -129,6 +129,8 @@ A list of free generators dedicated to email coding
 
 [Create responsive email designs in seconds.](https://mailo.app/)
 
+[HtmlEmailEditor](https://htmlemaileditor.com/)
+
 
 ## Gmail Annotation
 
