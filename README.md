@@ -2,6 +2,25 @@
 
 A list of free generators dedicated to email coding 
 
+## Accessibility
+
+[accessible email](https://www.accessible-email.org/)
+
+[accessibiliTY Insights](https://accessibilityinsights.io/)
+
+[Photosensitive Epilepsy Analysis Tool (PEAT)](https://trace.umd.edu/peat/)
+
+[Coblis—Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+
+[Accessible color](https://accessible-colors.com/)
+
+[webaim contrast checker](https://webaim.org//resources/contrastchecker/)
+
+[Parcel Accessibility checker](https://parcel.io/docs/dev-tools/accessibility-checker)
+
+
+
+
 ## AI 
 
 [Effortless HTML Emails](https://www.sendwisely.com/)
@@ -168,8 +187,10 @@ A list of free generators dedicated to email coding
 ## SVG to VML
 
 [Stylecampaign converter SVG to html](https://www.stylecampaign.com/vml/)
+
 [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
-[SVG to Png}(https://www.svgviewer.dev/svg-to-png)
+
+[SVG to Png](https://www.svgviewer.dev/svg-to-png)
 
 
 ## Table generator
